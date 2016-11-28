@@ -5,4 +5,5 @@
 _videoView.backFront = ^(){
             [weakSelf.navigationController popViewControllerAnimated:YES];
         };
+YJWConst 一些控件尺寸 图片名字修改的地方
 返回前一个界面
